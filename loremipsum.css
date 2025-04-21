@@ -1,0 +1,38 @@
+body {
+    background: #000000;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 31%, rgba(56, 7, 7, 1) 69%, rgba(94, 0, 0, 1) 100%);
+}
+
+h1 {
+    color: #eb3232ea;
+}
+
+h2 {
+    color: #830b0be7;
+}
+
+strong {
+    color: #af1414;
+}
+
+p {
+    color: antiquewhite;
+}
+
+img {
+    border-radius: 12px;
+}
+
+#nya {
+    margin-left: 40px
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff5f5f;
+}
+
